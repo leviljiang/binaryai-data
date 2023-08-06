@@ -34,7 +34,7 @@
 
 ## Black Duck
 
- <img src="../static/blackduck-by-synopsys.png" alt="scantistLogo" style="zoom:30%;" />
+ <img src="../static/blackduck-by-synopsys.png" alt="scantistLogo" style="zoom:15%;" />
 
 - Black Duck is one of the most recognized commercial SCA products, which allows organizations to track and manage open-source components within their binary software artifacts
 
